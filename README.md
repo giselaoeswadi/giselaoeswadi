@@ -12,7 +12,7 @@ Lifelong Learner, currently working as budagh kompeni.
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
+    - :keyboard: I’m currently learning HTML,CSS,JavaScript, Scratch, Phython, IOT Arduino</br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:giselaoeswadi@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: She/Her. </br>
