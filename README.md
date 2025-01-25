@@ -1,6 +1,6 @@
 # giselaoeswadi
 <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
-Lifelong Learner, currently working as Junior H4CK43R
+Lifelong Learner, currently working as Junior H4CK43R and MyCode Name LittleDragon ^_^
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giselathedragon&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
@@ -10,7 +10,7 @@ Lifelong Learner, currently working as Junior H4CK43R
     <img src="https://img.shields.io/badge/Codepen.io-red?&logo=codepen.io&logoColor=red" />
 </p>
 
-### <summary><strong>Yosh!</strong></summary>
+### <summary><strong>About 3!</strong></summary>
 <p>
     - :keyboard: I’m currently learning HTML,CSS,JavaScript, Scratch, Phython, IOT Arduino</br>
     - :speech_balloon: Ask me about anything.</br>
