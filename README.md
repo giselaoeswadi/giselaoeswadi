@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Codepen.io-red?&logo=codepen.io&logoColor=red" />
 </p>
 
-### <summary><strong>About 3!</strong></summary>
+### <summary><strong>About me :)</strong></summary>
 <p>
     - :keyboard: I’m currently learning HTML,CSS,JavaScript, Scratch, Phython, IOT Arduino</br>
     - :speech_balloon: Ask me about anything.</br>
