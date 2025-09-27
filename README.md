@@ -16,7 +16,7 @@
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:giselaoeswadi@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Drawing, Writing and Coding are part of me. </br>
+    - :game_die: Drawing, Writing and Coding are part of me. I got level 12 in https://www.codedex.io/@-OMORI- </br>
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
